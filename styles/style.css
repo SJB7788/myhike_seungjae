@@ -16,3 +16,7 @@
 .card {
     width: 500px;
 }
+
+.material-icons{
+    cursor: pointer;
+}
